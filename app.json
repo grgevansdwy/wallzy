@@ -1,0 +1,77 @@
+{
+  "expo": {
+    "name": "Wallzy",
+    "slug": "react-native-auth-app-o3a0pji",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/WallzyApp-iOS.png",
+    "scheme": "com.wallzywallet",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/WallzyApp-iOS.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.wallzywallet",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSLocationWhenInUseUsageDescription": "Wallzy uses your location to detect nearby stores and recommend the best credit card for your purchase.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Wallzy uses your location in the background to notify you of the best card to use when you arrive at a store."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/WallzyApp-iOS.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.wallzywallet",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/images/WallzyApp-iOS.png"
+    },
+    "plugins": [
+      "./plugins/withRadarDesugaring.js",
+      "react-native-radar",
+      [
+        "expo-router",
+        {
+          "origin": "https://com.wallzywallet/"
+        }
+      ],
+      "expo-font",
+      "expo-web-browser",
+      "expo-apple-authentication",
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.216079633001-0fep5css7fmqg9dqglasar5mqd836c68"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": "https://com.wallzywallet/"
+      },
+      "eas": {
+        "projectId": "fe6a59ed-db0a-4138-ae26-8aa2c6652301"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fe6a59ed-db0a-4138-ae26-8aa2c6652301"
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "amex_deltaBlue": {
+    "name": "Amex Delta SkyMiles Blue",
+    "url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-blue-american-express-card/"
+  },
+  "amex_everyday": {
+    "name": "Amex Blue Cash Everyday",
+    "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/"
+  },
+  "amex_gold": {
+    "name": "Amex Gold Card",
+    "url": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+  },
+  "amex_platinum": {
+    "name": "Amex Platinum Card",
+    "url": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+  },
+  "amex_preferred": {
+    "name": "Amex Blue Cash Preferred",
+    "url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/"
+  },
+  "apple_card": {
+    "name": "Apple Card",
+    "url": "https://www.apple.com/apple-card/"
+  },
+  "bofa_custom": {
+    "name": "BofA Customized Cash Rewards",
+    "url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/"
+  },
+  "bofa_travelReward": {
+    "name": "BofA Travel Rewards",
+    "url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/"
+  },
+  "bofa_unlimited": {
+    "name": "BofA Unlimited Cash Rewards",
+    "url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/"
+  },
+  "capitalOne_platinum": {
+    "name": "Capital One Platinum Mastercard",
+    "url": "https://www.capitalone.com/credit-cards/platinum/"
+  },
+  "capitalOne_quicksilverExcellent": {
+    "name": "Capital One Quicksilver for Excellent Credit",
+    "url": "https://www.capitalone.com/credit-cards/quicksilver/"
+  },
+  "capitalOne_quicksilverGood": {
+    "name": "Capital One Quicksilver for Good Credit",
+    "url": "https://www.capitalone.com/credit-cards/quicksilver-good-credit/"
+  },
+  "capitalOne_quicksilverFair": {
+    "name": "Capital One Quicksilver for Fair Credit",
+    "url": "https://www.capitalone.com/credit-cards/quicksilverone/"
+  },
+  "capitalOne_quicksilverStudent": {
+    "name": "Capital One Quicksilver for Students",
+    "url": "https://www.capitalone.com/credit-cards/quicksilver-student/"
+  },
+  "capitalOne_savorExcellent": {
+    "name": "Capital One Savor Rewards for Excellent Credit",
+    "url": "https://www.capitalone.com/credit-cards/savor/"
+  },
+  "capitalOne_savorGood": {
+    "name": "Capital One Savor Rewards for Good Credit",
+    "url": "https://www.capitalone.com/credit-cards/savor-good-credit/"
+  },
+  "capitalOne_savorFair": {
+    "name": "Capital One Savor Rewards for Fair Credit",
+    "url": "https://www.capitalone.com/credit-cards/savorone/"
+  },
+  "capitalOne_savorStudent": {
+    "name": "Capital One Savor Rewards for Students",
+    "url": "https://www.capitalone.com/credit-cards/savor-student/"
+  },
+  "capitalOne_venture": {
+    "name": "Capital One Venture Rewards",
+    "url": "https://www.capitalone.com/credit-cards/venture/"
+  },
+  "capitalOne_ventureOne": {
+    "name": "Capital One VentureOne Rewards",
+    "url": "https://www.capitalone.com/credit-cards/ventureone/"
+  },
+  "capitalOne_ventureX": {
+    "name": "Capital One Venture X",
+    "url": "https://www.capitalone.com/credit-cards/venture-x/"
+  },
+  "chase_amazonPrime": {
+    "name": "Chase Prime Visa",
+    "url": "https://www.amazon.com/primevisa"
+  },
+  "chase_freedomFlex": {
+    "name": "Chase Freedom Flex",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex"
+  },
+  "chase_freedomRise": {
+    "name": "Chase Freedom Rise",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/rise"
+  },
+  "chase_freedomUnlimited": {
+    "name": "Chase Freedom Unlimited",
+    "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
+  },
+  "chase_sapphirePreferred": {
+    "name": "Chase Sapphire Preferred",
+    "url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred"
+  },
+  "citi_custom": {
+    "name": "Citi Custom Cash Card",
+    "url": "https://www.citi.com/credit-cards/citi-custom-cash-credit-card"
+  },
+  "citi_doubleCash": {
+    "name": "Citi Double Cash",
+    "url": "https://www.citi.com/credit-cards/citi-double-cash-credit-card"
+  },
+  "discoverIt_Miles": {
+    "name": "Discover It Miles",
+    "url": "https://www.discover.com/credit-cards/travel/"
+  },
+  "discoverIt_secured": {
+    "name": "Discover It Secured",
+    "url": "https://www.discover.com/credit-cards/secured/"
+  },
+  "discoverIt_studentCashBack": {
+    "name": "Discover It Student Cash Back",
+    "url": "https://www.discover.com/credit-cards/student-credit-card/it-card.html"
+  },
+  "discoverIt_studentChrome": {
+    "name": "Discover It Student Chrome",
+    "url": "https://www.discover.com/credit-cards/student-credit-card/chrome-card.html"
+  },
+  "openSky_secured": {
+    "name": "Opensky Secured Visa",
+    "url": "https://www.openskycc.com/opensky-secured-visa"
+  },
+  "paypal_card": {
+    "name": "PayPal Cashback Mastercard",
+    "url": "https://www.paypal.com/credit-application/co/landing?track=cltCREDITHUB"
+  },
+  "usBank_altitudeConnect": {
+    "name": "U.S Bank Altitude Connect Visa Signature",
+    "url": "https://www.usbank.com/credit-cards/offers/altitude-connect-visa-signature-credit-card.html"
+  },
+  "usBank_altitudeGo": {
+    "name": "U.S Bank Altitude Go Visa Signature Card",
+    "url": "https://www.usbank.com/credit-cards/offers/altitude-go-visa-signature-credit-card.html"
+  },
+  "usBank_smartly": {
+    "name": "U.S Bank Smartly Visa Signature Card",
+    "url": "https://www.usbank.com/credit-cards/bank-smartly-visa-signature-credit-card.html"
+  },
+  "wellsFargo_activeCashCard": {
+    "name": "Wells Fargo Active Cash",
+    "url": "https://creditcards.wellsfargo.com/cards/active-cash-credit-card/"
+  },
+  "wellsFargo_reflect": {
+    "name": "Wells Fargo Reflect",
+    "url": "https://creditcards.wellsfargo.com/cards/reflect-visa-credit-card/"
+  }
+}

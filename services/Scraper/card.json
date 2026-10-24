@@ -1,0 +1,755 @@
+{
+  "amex_deltaBlue": {
+    "card_name": "Delta SkyMiles Blue",
+    "issuing_bank": "American Express",
+    "rewards_type": "Miles",
+    "rewards": {
+      "dining": 0.02,
+      "flight": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": "No",
+    "bonus_value": 10000,
+    "bonus_time": 6,
+    "bonus_spending": 1000,
+    "bonus_comment": "Earn 10,000 bonus miles after spending $1,000 on eligible purchases in the first 6 months of Card Membership.",
+    "general_comment": "This card is a co-branded Delta SkyMiles card with no annual fee and no foreign transaction fees. It earns 2X miles on Delta purchases and at restaurants (including takeout and delivery in the U.S.), and 1X miles on all other purchases. Cardholders also receive a 20% statement credit on eligible Delta in-flight food and beverage purchases."
+  },
+  "amex_everyday": {
+    "card_name": "Blue Cash Everyday",
+    "issuing_bank": "American Express",
+    "rewards_type": "Cash",
+    "rewards": {
+      "groceries": 0.03,
+      "online_retail": 0.03,
+      "gas_ev": 0.03,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": "No",
+    "bonus_value": 200,
+    "bonus_time": 6,
+    "bonus_spending": 2000,
+    "bonus_comment": "Earn $200 cash back after spending $2,000 in purchases on your new Card within the first 6 months of Card Membership.",
+    "general_comment": "The Blue Cash Everyday Card is a no-annual-fee cash back card from American Express. It offers boosted rewards on everyday spending categories like groceries, U.S. online retail purchases, and gas, each with an annual cap. Cardmembers also receive a Disney Streaming Credit."
+  },
+  "amex_gold": {
+    "card_name": "Gold Card",
+    "issuing_bank": "American Express",
+    "rewards_type": "Point",
+    "rewards": {
+      "restaurant": 0.04,
+      "groceries": 0.04,
+      "flight": 0.03,
+      "hotel": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 325,
+    "foreign_fee": null,
+    "bonus_value": 100000,
+    "bonus_time": 6,
+    "bonus_spending": 6000,
+    "bonus_comment": "Earn up to 100,000 Membership Rewards points after you spend $6,000 in purchases on your new Card within the first 6 months of Card Membership.",
+    "general_comment": "This card offers accelerated rewards on dining and U.S. supermarkets, along with flights booked directly with airlines or AmexTravel.com. It provides annual statement credits for Uber Cash, Dunkin', Resy, and a general dining credit at participating partners, helping to offset the annual fee."
+  },
+  "amex_platinum": {
+    "card_name": "Platinum Card",
+    "issuing_bank": "American Express",
+    "rewards_type": "Point",
+    "rewards": {
+      "flight": 0.05,
+      "hotel": 0.05,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 895,
+    "foreign_fee": "No",
+    "bonus_value": 175000,
+    "bonus_time": 6,
+    "bonus_spending": 12000,
+    "bonus_comment": "Earn 175,000 Membership Rewards points after spending $12,000 in purchases on your new Card within the first 6 months of Card Membership.",
+    "general_comment": "The Platinum Card is a premium travel card offering extensive benefits for frequent travelers, including elevated points on flights and hotels, and access to a vast global lounge network. Despite its high annual fee, it provides significant value through numerous annual statement credits across various categories like travel, dining, and wellness."
+  },
+  "amex_preferred": {
+    "card_name": "Blue Cash Preferred",
+    "issuing_bank": "American Express",
+    "rewards_type": "Cash",
+    "rewards": {
+      "groceries": 0.06,
+      "streaming_subscription": 0.06,
+      "transit": 0.03,
+      "gas_ev": 0.03,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 95,
+    "foreign_fee": null,
+    "bonus_value": 300,
+    "bonus_time": 6,
+    "bonus_spending": 3000,
+    "bonus_comment": "Earn $300 cash back after spending $3,000 in purchases in the first 6 months.",
+    "general_comment": "The Blue Cash Preferred Card is a strong cash back card, offering high rewards on everyday spending like groceries and streaming subscriptions, with a cap on grocery rewards. It also provides elevated cash back on transit and gas. The card features an introductory annual fee of $0 for the first year, then $95."
+  },
+  "apple_card": {
+    "card_name": "Apple Card",
+    "issuing_bank": "Goldman Sachs Bank USA",
+    "rewards_type": "Cash",
+    "rewards": {
+      "apple": 0.03,
+      "ace_hardware": 0.03,
+      "booking.com": 0.03,
+      "chargepoint": 0.03,
+      "drugstore": 0.03,
+      "gas_ev": 0.03,
+      "car_rental": 0.03,
+      "nike": 0.03,
+      "transit": 0.03,
+      "dining": 0.03,
+      "apple_pay": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": "No",
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "The Apple Card offers Daily Cash back on purchases, with higher rates for Apple products and Apple Pay transactions at select merchants. It stands out with no fees, an emphasis on paying less interest, and seamless integration with the iPhone Wallet app. Cardholders can also make interest-free monthly installments on Apple product purchases."
+  },
+  "bofa_custom": {
+    "card_name": "Customized Cash Rewards",
+    "issuing_bank": "Bank of America",
+    "rewards_type": "Cash",
+    "rewards": {
+      "groceries": 0.02,
+      "wholesale": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {
+      "gas_ev": 0.03,
+      "online_retail": 0.03,
+      "dining": 0.03,
+      "travel": 0.03,
+      "drugstore": 0.03,
+      "home_furnishing": 0.03
+    },
+    "annual_fee": 0,
+    "foreign_fee": "3%",
+    "bonus_value": 200,
+    "bonus_time": 3,
+    "bonus_spending": 1000,
+    "bonus_comment": "Earn $200 online cash rewards bonus after making at least $1,000 in purchases in the first 90 days of account opening.",
+    "general_comment": "This card allows customers to choose one 3% cash back category from several options, which can be changed monthly. It also offers an automatic 2% cash back at grocery stores and wholesale clubs, and 1% on all other purchases. Cardmembers receive an enhanced 6% cash back in their chosen category for the first year, with a combined quarterly cap of $2,500 on the 3% (or 6% intro) and 2% categories."
+  },
+  "bofa_travelReward": {
+    "card_name": "Travel Rewards Credit Card",
+    "issuing_bank": "Bank of America",
+    "rewards_type": "Point",
+    "rewards": {
+      "everything": 0.015
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": "No",
+    "bonus_value": 25000,
+    "bonus_time": 3,
+    "bonus_spending": 1000,
+    "bonus_comment": "Earn 25,000 bonus points after spending $1,000 in the first 90 days, redeemable for a $250 statement credit toward travel and dining purchases.",
+    "general_comment": "This card earns a flat rate of 1.5 points per dollar on all purchases. It features no annual fee and no foreign transaction fees, making it suitable for everyday spending and international travel. Points are flexible and can be redeemed for statement credits towards travel and dining expenses."
+  },
+  "bofa_unlimited": {
+    "card_name": "Unlimited Cash Rewards",
+    "issuing_bank": "Bank of America",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.015
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": "3%",
+    "bonus_value": 200,
+    "bonus_time": 3,
+    "bonus_spending": 1000,
+    "bonus_comment": "Earn a $200 online cash rewards bonus after making at least $1,000 in purchases in the first 90 days of account opening.",
+    "general_comment": "This card offers a straightforward unlimited 1.5% cash back on all purchases after the first year (2% for the first year). It has no annual fee and is suitable for those seeking a simple, consistent cash back earning structure without category tracking. Preferred Rewards members can earn even more cash back."
+  },
+  "capitalOne_platinum": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This text provides a general overview of Capital One's credit card categories, including Cash Back, Travel, and Business Rewards cards, suited for various credit levels. It highlights general benefits like Capital One Travel and Capital One Shopping, but does not detail a specific credit card product, its rates, or its fees."
+  },
+  "capitalOne_quicksilverExcellent": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This scraped text appears to be a general 'Page Not Found' page and navigational content for Capital One's website. It describes various types of credit cards Capital One offers (cash back, travel, student, business) but does not detail a specific credit card product or its features, rewards, fees, or welcome bonus."
+  },
+  "capitalOne_quicksilverGood": {
+    "card_name": "Business Cash Back",
+    "issuing_bank": "Capital One",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.02
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This Capital One business credit card offers a competitive rewards structure, allowing cardholders to earn up to 2% cash back on all eligible business purchases. It is designed for businesses seeking straightforward cash back rewards. While specific benefits are general to Capital One, this card emphasizes direct cash back accumulation for business spending."
+  },
+  "capitalOne_quicksilverFair": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This text provides a high-level overview of Capital One's diverse offerings, including various credit card types (cash back, travel, student, business), banking services, auto loans, and commercial solutions. It does not detail the specific features, rates, or welcome bonus of a particular credit card product."
+  },
+  "capitalOne_quicksilverStudent": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "The scraped text is a general overview of Capital One's financial products and services, not a specific credit card product page. It mentions different types of credit cards such as cash back, travel, student, and business cards, with general statements about earning cash back or miles. However, it does not provide specific details for any individual card, so most fields cannot be extracted."
+  },
+  "capitalOne_savorExcellent": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "The scraped text provides general information about Capital One's various financial products, including credit cards categorized by credit level and rewards type (cash back, travel, student, business). It highlights features like Capital One Travel, Shopping, and CreditWise. However, it does not describe a specific credit card product or its detailed terms and conditions."
+  },
+  "capitalOne_savorGood": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This scraped text provides an overview of Capital One's credit card categories, including cash back, travel, student, and business rewards, but does not detail a specific card product. It broadly mentions earning up to 2% cash back on business cards or miles for travel. Specific rewards rates, fees, or welcome offers for an individual card are not present."
+  },
+  "capitalOne_savorFair": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": null
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This text is a general Capital One 'Page Not Found' and 'Important Disclosures' document, not a specific credit card product page. It highlights various types of credit cards offered by Capital One, including cash back and travel rewards options, for different credit levels and business needs. It also provides general information about other Capital One products and services."
+  },
+  "capitalOne_savorStudent": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "The provided text is a general overview of Capital One's credit card and banking offerings, not a specific credit card product page. It mentions various types of cards like cash back, travel, and business cards but provides no detailed information on any individual card's features, fees, or specific reward structures beyond general categories."
+  },
+  "capitalOne_venture": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This text appears to be a general navigation page for Capital One, including a 'Page Not Found' message. It describes various types of Capital One offerings but does not provide specific details for a particular credit card product."
+  },
+  "capitalOne_ventureOne": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.02
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This credit card is a business cash back rewards offering from Capital One. It allows businesses to earn up to 2% cash back on all spending, providing a straightforward way to maximize returns on operational expenses. The card is suitable for businesses prioritizing simple, consistent cash rewards."
+  },
+  "capitalOne_ventureX": {
+    "card_name": null,
+    "issuing_bank": "Capital One",
+    "rewards_type": null,
+    "rewards": {},
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This scraped text provides general information about Capital One's credit card categories, banking services, and other financial tools. It mentions options for cash back and travel rewards but does not detail a specific credit card product or its associated rates, fees, or welcome bonus."
+  },
+  "chase_amazonPrime": {
+    "card_name": null,
+    "issuing_bank": null,
+    "rewards_type": null,
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": null,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "The provided text is a generic Amazon.com footer and does not contain any information about a credit card product. Therefore, no specific card details can be extracted."
+  },
+  "chase_freedomFlex": {
+    "card_name": "Freedom Flex",
+    "issuing_bank": "Chase",
+    "rewards_type": "Cash",
+    "rewards": {
+      "travel": 0.05,
+      "dining": 0.03,
+      "drugstore": 0.03,
+      "everything": 0.01
+    },
+    "rotating": {
+      "q1_2026": {
+        "dining": 0.05
+      }
+    },
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": 200,
+    "bonus_time": 3,
+    "bonus_spending": 500,
+    "bonus_comment": "Earn a $200 bonus after you spend $500 on purchases in the first 3 months from account opening.",
+    "general_comment": "The Chase Freedom Flex card offers 5% cash back on rotating bonus categories each quarter (on up to $1,500 in combined purchases upon activation), 5% on travel booked through Chase Travel, 3% on dining and drugstores, and 1% on all other purchases. It comes with a $0 annual fee and offers a 0% intro APR on purchases and balance transfers for the first 15 months. Cardmembers also receive perks like complimentary DashPass access for 6 months and enhanced cash back on Lyft rides until September 30, 2027."
+  },
+  "chase_freedomRise": {
+    "card_name": "Freedom Rise",
+    "issuing_bank": "Chase",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.015,
+      "transit": 0.02
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "Earn a $25 statement credit when you sign up for automatic payments within the first three months of opening your account and remain enrolled for at least 90 days.",
+    "general_comment": "This card is designed for individuals new to credit or students, offering 1.5% cash back on all purchases to help establish credit. It features no annual fee and provides an automatic evaluation for an upgrade to the Chase Freedom Unlimited card after a year of responsible use, assuming good payment habits. Cardholders also get boosted cash back on Lyft rides."
+  },
+  "chase_freedomUnlimited": {
+    "card_name": "Freedom Unlimited",
+    "issuing_bank": "Chase",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.015,
+      "dining": 0.03,
+      "drugstore": 0.03,
+      "travel": 0.05,
+      "transit": 0.02
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": 200,
+    "bonus_time": 3,
+    "bonus_spending": 500,
+    "bonus_comment": "Earn a $200 bonus after spending $500 on purchases in the first 3 months from account opening.",
+    "general_comment": "This card offers unlimited 1.5% cash back on all purchases, with boosted rates on dining, drugstores, and travel through Chase Travel. It features a $0 annual fee and a 0% intro APR on purchases and balance transfers for 15 months. Cardmembers can also receive complimentary DashPass access and earn extra cash back on Lyft rides."
+  },
+  "chase_sapphirePreferred": {
+    "card_name": "Sapphire Preferred",
+    "issuing_bank": "Chase",
+    "rewards_type": "Point",
+    "rewards": {
+      "travel": 0.02,
+      "travel_portal": 0.05,
+      "dining": 0.03,
+      "groceries": 0.03,
+      "streaming_subscription": 0.03,
+      "transit": 0.05,
+      "fitness_club": 0.05,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 95,
+    "foreign_fee": "No",
+    "bonus_value": 75000,
+    "bonus_time": 3,
+    "bonus_spending": 5000,
+    "bonus_comment": "Earn 75,000 bonus points after you spend $5,000 on purchases in the first 3 months from account opening.",
+    "general_comment": "This card offers premium rewards for dining and travel. It provides a $50 annual hotel credit when booked through Chase Travel and allows for 1:1 point transfers to various airline and hotel loyalty programs. Cardmembers also receive a 10% anniversary bonus on total purchases made the previous year."
+  },
+  "citi_custom": {
+    "card_name": "Custom Cash Card",
+    "issuing_bank": "Citi",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {
+      "dining": 0.05,
+      "gas_ev": 0.05,
+      "groceries": 0.05,
+      "travel": 0.05,
+      "transit": 0.05,
+      "streaming_subscription": 0.05,
+      "drugstore": 0.05,
+      "home_furnishing": 0.05,
+      "fitness_club": 0.05,
+      "entertainment": 0.05,
+      "hotel": 0.05,
+      "car_rental": 0.05
+    },
+    "annual_fee": 0,
+    "foreign_fee": "3%",
+    "bonus_value": 200,
+    "bonus_time": 6,
+    "bonus_spending": 1500,
+    "bonus_comment": "Earn $200 cash back after spending $1,500 on purchases in the first 6 months of account opening.",
+    "general_comment": "The Citi Custom Cash Card automatically earns 5% cash back (up to $500 spent per billing cycle) on your top eligible spend category each billing cycle, with 1% back on all other purchases. Additionally, earn 5% total cash back on hotels, car rentals, and attractions booked through Citi Travel. There is no annual fee."
+  },
+  "citi_doubleCash": {
+    "card_name": "Double Cash",
+    "issuing_bank": "Citi",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.02,
+      "hotel": 0.05,
+      "car_rental": 0.05,
+      "travel": 0.05
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": "3%",
+    "bonus_value": 200,
+    "bonus_time": 6,
+    "bonus_spending": 1500,
+    "bonus_comment": "Earn $200 cash back after you spend $1,500 on purchases in the first 6 months of account opening.",
+    "general_comment": "The Citi Double Cash Card offers a straightforward unlimited 2% cash back on all purchases: 1% when you buy and an additional 1% as you pay. Additionally, cardmembers earn 5% cash back on hotels, car rentals, and attractions booked through the Citi Travel portal. This card features no annual fee and no category enrollment."
+  },
+  "discoverIt_Miles": {
+    "card_name": "it Miles",
+    "issuing_bank": "Discover Financial Services",
+    "rewards_type": "Miles",
+    "rewards": {
+      "everything": 0.015
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "Discover will automatically match all the Miles you've earned at the end of your first year, with no limit to the match.",
+    "general_comment": "This card earns a flat 1.5x Miles on every purchase, which can be redeemed for travel statement credits or cash. It offers an unlimited Miles match at the end of the first year and has no annual fee. It aims to be a flexible travel card for both travel and everyday spending."
+  },
+  "discoverIt_secured": {
+    "card_name": "it Secured Credit Card",
+    "issuing_bank": "Discover Financial Services",
+    "rewards_type": "Cash",
+    "rewards": {
+      "gas_ev": 0.02,
+      "restaurant": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "Get an unlimited dollar-for-dollar match of all the cash back you earn at the end of your first year, automatically.",
+    "general_comment": "The Discover it Secured Credit Card is designed to help individuals build or rebuild their credit history through responsible use, requiring a refundable security deposit to establish a credit line. After 7 months, Discover begins automatic monthly reviews to see if cardholders qualify to upgrade to an unsecured card and get their deposit back. It offers cashback rewards on everyday purchases, including a higher rate at gas stations and restaurants."
+  },
+  "discoverIt_studentCashBack": {
+    "card_name": "Discover it Student Cash Back",
+    "issuing_bank": "Discover Financial Services",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {
+      "q1_2026": {
+        "groceries": 0.05,
+        "wholesale": 0.05,
+        "streaming_subscription": 0.05
+      }
+    },
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "Discover matches all the cash back you earn dollar-for-dollar at the end of your first year, automatically, with no limit to how much they'll match.",
+    "general_comment": "This is a student credit card designed to help build credit while earning cash back. It features rotating 5% cash back categories each quarter on common purchases like groceries, restaurants, and gas, up to a quarterly maximum, plus 1% cash back on all other spending. It has no annual fee and includes the Unlimited Cashback Match welcome offer."
+  },
+  "discoverIt_studentChrome": {
+    "card_name": "it Student Chrome",
+    "issuing_bank": "Discover Financial Services",
+    "rewards_type": "Cash",
+    "rewards": {
+      "gas_ev": 0.02,
+      "restaurant": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "Get an unlimited dollar-for-dollar match of all the cash back you earn at the end of your first year, automatically. There is no limit to how much Discover will match.",
+    "general_comment": "The Discover it Student Chrome Credit Card is designed for students to build credit responsibly while earning cash back. It offers boosted rewards on gas and restaurant purchases, along with a standard rate on all other spending. There is no annual fee, making it a good entry-level card for students."
+  },
+  "openSky_secured": {
+    "card_name": "Opensky Secured Visa",
+    "issuing_bank": "Capital Bank, N.A.",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 35,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "The Opensky Secured Visa is designed for individuals looking to build or rebuild their credit, allowing approval without a credit check. It offers cash back rewards on daily purchases and reports to all three major credit bureaus to help improve credit scores. The credit limit is determined by a refundable security deposit, ranging from $200 to $3,000."
+  },
+  "paypal_card": {
+    "card_name": "PayPal Cashback Mastercard",
+    "issuing_bank": "Synchrony Bank",
+    "rewards_type": "Cash",
+    "rewards": {
+      "online_retail": 0.03,
+      "everything": 0.015
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "The PayPal Cashback Mastercard offers unlimited cash back, with a higher rate for online purchases made using PayPal. All other purchases earn a standard cash back rate. This card features no annual fee, making it a simple option for earning cash back, particularly for those who frequently use PayPal for online shopping."
+  },
+  "usBank_altitudeConnect": {
+    "card_name": "Altitude Connect Visa Signature Card",
+    "issuing_bank": "U.S. Bank",
+    "rewards_type": "Point",
+    "rewards": {
+      "hotel": 0.05,
+      "car_rental": 0.05,
+      "travel": 0.04,
+      "gas_ev": 0.04,
+      "dining": 0.02,
+      "streaming_subscription": 0.02,
+      "groceries": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": "No",
+    "bonus_value": 20000,
+    "bonus_time": 3,
+    "bonus_spending": 1000,
+    "bonus_comment": "Earn 20,000 bonus points after spending $1,000 in the first 90 days.",
+    "general_comment": "The U.S. Bank Altitude Connect Visa Signature Card is a no-annual-fee travel card offering accelerated rewards on prepaid hotels and car rentals, general travel, gas/EV charging, dining, streaming, and groceries. It features no foreign transaction fees, making it a good option for international use. Cardholders also receive airport lounge access and a credit for TSA PreCheck or Global Entry."
+  },
+  "usBank_altitudeGo": {
+    "card_name": "Altitude Go Visa Signature",
+    "issuing_bank": "U.S. Bank National Association",
+    "rewards_type": "Point",
+    "rewards": {
+      "dining": 0.04,
+      "groceries": 0.02,
+      "gas_ev": 0.02,
+      "streaming_subscription": 0.02,
+      "everything": 0.01
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": 20000,
+    "bonus_time": 3,
+    "bonus_spending": 1000,
+    "bonus_comment": "Earn 20,000 bonus points after spending $1,000 in the first 3 months.",
+    "general_comment": "This card offers strong rewards on dining, streaming, groceries, and gas/EV charging, with a $0 annual fee. It provides 4X points on dining (capped at $2,000 spending per quarter) and a $15 annual streaming service credit."
+  },
+  "usBank_smartly": {
+    "card_name": "Smartly Visa Signature Card",
+    "issuing_bank": "U.S. Bank",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.02
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus. The card offers a 0% introductory APR on purchases and balance transfers for the first 12 billing cycles.",
+    "general_comment": "This card offers unlimited 2% cash back on every purchase. Cardmembers can earn additional cash back, totaling up to 4%, on the first $10,000 in eligible net purchases each billing cycle by maintaining qualifying balances in linked U.S. Bank Smartly Savings, Checking, and/or Safe Debit accounts. Rewards are earned as points but are redeemable for cash back into an eligible U.S. Bank deposit account."
+  },
+  "wellsFargo_activeCashCard": {
+    "card_name": "Active Cash\u00ae Card",
+    "issuing_bank": "Wells Fargo",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.02
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": 200,
+    "bonus_time": 3,
+    "bonus_spending": 500,
+    "bonus_comment": "Earn a $200 cash rewards bonus when you spend $500 in purchases in the first 3 months.",
+    "general_comment": "The Wells Fargo Active Cash\u00ae Card offers a simple and rewarding experience with unlimited 2% cash rewards on all purchases, eliminating the need to track categories. It boasts a $0 annual fee and includes an introductory 0% APR for 12 months on purchases and qualifying balance transfers. Notable benefits include cellular telephone protection and auto rental collision damage waiver, making it a versatile option for everyday use."
+  },
+  "wellsFargo_reflect": {
+    "card_name": "Reflect",
+    "issuing_bank": "Wells Fargo",
+    "rewards_type": "Cash",
+    "rewards": {
+      "everything": 0.0
+    },
+    "rotating": {},
+    "custom": {},
+    "annual_fee": 0,
+    "foreign_fee": null,
+    "bonus_value": null,
+    "bonus_time": null,
+    "bonus_spending": null,
+    "bonus_comment": "No welcome bonus.",
+    "general_comment": "This card offers a long 0% intro APR for 21 months on purchases and qualifying balance transfers. It includes cellular telephone protection against damage or theft (subject to a deductible) and access to My Wells Fargo Deals to earn cash back on activated offers."
+  }
+}
